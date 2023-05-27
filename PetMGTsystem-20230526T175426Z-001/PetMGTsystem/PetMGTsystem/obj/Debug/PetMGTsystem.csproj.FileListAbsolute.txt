@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\PetMGTsystem\PetMGTsystem\bin\Debug\PetMGTsystem.exe.config
+C:\Users\User\source\repos\PetMGTsystem\PetMGTsystem\bin\Debug\PetMGTsystem.exe
+C:\Users\User\source\repos\PetMGTsystem\PetMGTsystem\bin\Debug\PetMGTsystem.pdb
+C:\Users\User\source\repos\PetMGTsystem\PetMGTsystem\obj\Debug\PetMGTsystem.csprojAssemblyReference.cache
+C:\Users\User\source\repos\PetMGTsystem\PetMGTsystem\obj\Debug\PetMGTsystem.Properties.Resources.resources
+C:\Users\User\source\repos\PetMGTsystem\PetMGTsystem\obj\Debug\PetMGTsystem.csproj.GenerateResource.cache
+C:\Users\User\source\repos\PetMGTsystem\PetMGTsystem\obj\Debug\PetMGTsystem.exe
+C:\Users\User\source\repos\PetMGTsystem\PetMGTsystem\obj\Debug\PetMGTsystem.pdb
+C:\Users\User\source\repos\PetMGTsystem\PetMGTsystem\obj\Debug\PetMGTsystem.Splash.resources
+C:\Users\User\source\repos\PetMGTsystem\PetMGTsystem\obj\Debug\PetMGTsystem.Homes.resources
+C:\Users\User\source\repos\PetMGTsystem\PetMGTsystem\obj\Debug\PetMGTsystem.Employees.resources
+C:\Users\User\source\repos\PetMGTsystem\PetMGTsystem\obj\Debug\PetMGTsystem.Customers.resources
+C:\Users\User\source\repos\PetMGTsystem\PetMGTsystem\obj\Debug\PetMGTsystem.Products.resources
+C:\Users\User\source\repos\PetMGTsystem\PetMGTsystem\obj\Debug\PetMGTsystem.Billings.resources
+C:\Users\User\source\repos\PetMGTsystem\PetMGTsystem\obj\Debug\PetMGTsystem.Login.resources
